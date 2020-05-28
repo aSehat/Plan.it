@@ -4,6 +4,7 @@ AMP stack personal management application
 Practice with AMP stack development. 
 
 "Plan it, Assign it, Do it and Review It" 
+
 The better you perform, the better the health of your 'PlanIt'
 
 # How To Use
